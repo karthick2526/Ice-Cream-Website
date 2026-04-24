@@ -15,11 +15,7 @@ body {
     overflow-x: hidden;
 }
 
-.container {
-    width: 100%;
-    max-width: 1200px;
-    margin: auto;
-}
+
 
 html{
     scroll-behavior: smooth;
@@ -1034,6 +1030,7 @@ footer em {
 .menu .menu_box .menu_card {
     width: 80%;
     height: auto;
+    margin-left: 10px;
 
 }
 
